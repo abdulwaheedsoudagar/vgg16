@@ -1,2 +1,2 @@
-# vgg16
+# VGG16
 Pytorch VGG implementation from scratch
